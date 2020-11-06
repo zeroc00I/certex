@@ -1,5 +1,8 @@
 # Certex | Monitors Certificate Transparency Logs
 
+## Screenshots
+![certex](certex.png)
+
 ## Instructions for running
 1. Install requirements using `pip3 install -r requirements.txt`.
 2. Run `python3 certex.py`.<br>
